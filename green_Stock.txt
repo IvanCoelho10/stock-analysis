@@ -1,0 +1,70 @@
+Sub Macrocheck()
+
+    Dim testMessager As String
+    
+    testMessager = "Hello World!"
+    
+    MsgBox (testMessage)
+
+End Sub
+------------------------------------------------------------------
+Sub DQAnalysis()
+    
+    Worksheets("DQ Analysis").Activate
+    
+    Range("A1").Value = "DAQO (Ticker: DQ)"
+    
+    'Create a header row
+    Cells(3, 1).Value = "Year"
+    Cells(3, 2).Value = "Total Daily Volume"
+    Cells(3, 3).Value = "Return"
+
+For i = 1 To 8
+    MsgBox (Cells(1, i))
+
+Next i
+------------------------------------------------------------------
+totalVolume = 0
+For i = 2 To 3013
+    'increase totalVolume
+
+Next i
+----------------------------------------------------------------
+rowStart = 2
+rowEnd = 3013
+totalVolume = 0
+
+For i = rowStart To rowEnd
+    'increase totalVolume
+
+Next i
+--------------------------------------------------------------------
+rowStart = 2
+rowEnd = 3013
+totalVolume = 0
+
+For i = rowStart To rowEnd
+    'increase totalVolume
+    totalVolume = totalVolume + Cells(i, 8).Value
+
+Next i
+-----------------------------------------------------------------------
+
+Worksheets("DQ Analysis").Activate
+
+Range("A1").Value = "DAQO (Ticker: DQ)"
+
+'Create a header row
+Cells(3, 1).Value = "Year"
+Cells(3, 2).Value = "Total Daily Volume"
+Cells(3, 3).Value = "Return"
+
+rowStart = 2
+rowEnd = 3013
+totalVolume = 0
+
+For i = rowStart To rowEnd
+    'increase totalVolume
+    totalVolume = totalVolume + Cells(i, 8).Value
+
+Next i
