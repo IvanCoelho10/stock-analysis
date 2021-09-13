@@ -15,6 +15,7 @@ The purpose of this analysis was to see which Green Energy stocks were going to 
 * Results Analysis
 
 When I change and refactoring my original script was consistent and I could run the code efficient.
+The year of 2017 we have 11 stocks with postive performance. 
 
 ![2017-1](https://user-images.githubusercontent.com/87731897/133012240-2b2e9907-62c2-4711-9c37-1d653f26391d.png)
 
