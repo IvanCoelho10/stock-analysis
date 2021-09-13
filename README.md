@@ -16,16 +16,18 @@ The purpose of this analysis was to see which Green Energy stocks were going to 
 
 When I change and refactoring my original script was consistent and I could run the code efficient.
 
-![]https://github.com/IvanCoelho10/stock-analysis/blob/main/Resources/2017-1.png
+![2017-1](https://user-images.githubusercontent.com/87731897/133012240-2b2e9907-62c2-4711-9c37-1d653f26391d.png)
 
 * Performance
 
 The perfomance was very different in 2017 and 2018, but the year 2017 were more positive than 2018. 
 In 2018 Steve's parents could see 10 stocks drop in percent of annual return.
 
-![]https://github.com/IvanCoelho10/stock-analysis/blob/main/Resources/2018-2.png
+![2018-2](https://user-images.githubusercontent.com/87731897/133012253-9f01b0d0-8174-4627-bcef-5d5586617c3b.png)
+
 
 * Refactoring 
+
 When the refactoring was done the code was more efficient, the code was clearer and cleaner, 
 it reduced time, and the analysis was clearer for Steve's parents.
 
