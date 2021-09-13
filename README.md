@@ -6,9 +6,11 @@ Green Stock Analysis
 
 Steve was able to analyze data to have a better understanding of Green Energy stocks to help his parents. I worked on VBA (Visual Basic Aplications) to get 
 better solution for year 2017 and 2018.
-Fisrt it all, I analized those stocks to have a better understanding for what suggest for Seteve's parents.
-Purpose
-Analysing Green Energy Stock ti see what the best investment for Steve's parents.  In this case this project was to efficient in different ways.
+First it all, I analized those stocks to have a better understanding for what suggest for Seteve's parents.
+
+ * Purpose
+ 
+Analysing Green Energy Stock I see what the best investment for Steve's parents. In this case this project was to efficient in different ways.
 The purpose of this analysis was to see which Green Energy stocks were going to be the best investment for Steve’s parents. 
 
 
